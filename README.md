@@ -1,6 +1,6 @@
 # Czech Language (by Hampap)
 
-Tento jazykový balíček překládá hlavní části panelu.
+Tento jazykový balíček překládá hlavní části Pelican panelu.
 
 _Některé novější sekce panelu mohou být ještě v angličtině; budeme je postupně doplňovat._
 
