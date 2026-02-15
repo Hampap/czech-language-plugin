@@ -1,0 +1,15 @@
+{
+    "id": "czech-language",
+    "name": "Czech Language",
+    "author": "Hampap",
+    "version": "1.0.0",
+    "description": "Plugin that translates Pelican's interface into Czech.",
+    "category": "language",
+    "url": "",
+    "update_url": null,
+    "namespace": "Hampap\\CzechLanguage",
+    "class": "CzechLanguagePlugin",
+    "panels": null,
+    "panel_version": null,
+    "composer_packages": null
+}
