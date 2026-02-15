@@ -1,6 +1,6 @@
 # Czech Language (by Hampap)
 
-Proměňte celé rozhraní Pelican Panelu do češtiny. Tento jazykový balíček překládá hlavní části panelu, aby se čeští uživatelé cítili jako doma.
+Tento jazykový balíček překládá hlavní části panelu.
 
 _Některé novější sekce panelu mohou být ještě v angličtině; budeme je postupně doplňovat._
 
