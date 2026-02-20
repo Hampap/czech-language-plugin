@@ -69,4 +69,5 @@ return [
     'no_oauth' => 'Žádné účty nejsou propojeny',
     'no_api_keys' => 'Žádné API klíče.',
     'no_ssh_keys' => 'Žádné SSH klíče',
+    'activity_info' => 'Zobrazení posledních 50 záznamů aktivit',
 ];

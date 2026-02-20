@@ -3,7 +3,7 @@
     "name": "Czech Language",
     "author": "Hampap",
     "version": "1.0.0",
-    "description": "Plugin that translates Pelican's interface into Czech.",
+    "description": "Plugin that translates Pelican interface into Czech.",
     "category": "language",
     "url": "https://github.com/Hampap/czech-language-plugin/tree/main",
     "update_url": null,

@@ -9,7 +9,8 @@ _Některé novější sekce panelu mohou být ještě v angličtině; budeme je 
 - Kompletní překlad hlavních částí rozhraní (dashboard, servery, profily, správa)
 - Lokalizované systémové hlášky, tlačítka i formuláře
 - Terminologie přizpůsobená českým hostingům a herním komunitám
-- Snadné zapnutí přes nastavení jazyka v administraci
+- Snadné zapnutí přes nastavení jazyka v profilu
+- Plugin je nadřazený defaultní jazykové sadě v pelican panelu
 
 ## Instalace
 
@@ -20,8 +21,4 @@ _Některé novější sekce panelu mohou být ještě v angličtině; budeme je 
 
 ## Přispění a hlášení chyb
 
-Narazili jste na anglický text nebo překlep? Vytvořte issue nebo pull request s konkrétní stránkou/řetězcem. Každý návrh na vylepšení překladu vítáme.
-
----
-
-Děkujeme, že pomáháte dělat Pelican Panel dostupnější pro českou komunitu!
+Narazili jste na anglický text nebo překlep? Vytvořte issue. Každý návrh na vylepšení překladu vítáme.

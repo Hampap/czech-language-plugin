@@ -31,6 +31,7 @@ return [
         'no_local_ip' => 'Lokální IP adresy nejsou povoleny',
         'unsupported_format' => 'Nepodporovaný formát. Podporované formáty: :formats',
         'invalid_url' => 'Zadaná URL adresa je neplatná',
+        'unknown_extension' => 'Neznámé rozšíření image',
         'image_deleted' => 'Obrázek byl odstraněn',
         'no_image' => 'Žádný obrázek',
         'image_updated' => 'Obrázek byl aktualizován',
